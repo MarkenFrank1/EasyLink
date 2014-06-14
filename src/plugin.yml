@@ -1,0 +1,8 @@
+name: EasyLink
+main: nl.markstam.easylink.EasyLink
+version: 0.5
+
+commands:
+   link:
+      description: Give a link nice colors.
+      usage: /link <URL>
